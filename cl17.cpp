@@ -25,7 +25,8 @@ int main()
     again = toupper(again);
     cin.ignore(); // delete the enter key
     } while (again =='Y');
-    cout << "Coded by Nguyen";
+    cout << "Coded by Nguyen" << endl;
+    cout << "New edition";
     return 0;
 }
 // defining functions
